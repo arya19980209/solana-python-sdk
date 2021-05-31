@@ -12,7 +12,6 @@ Solana Python API built on the [JSON RPC API](https://docs.solana.com/apps/jsonr
 
 Python version of [solana-web3.js](https://github.com/solana-labs/solana-web3.js/) for interacting with Solana.
 
-Read the [Documentation](https://michaelhly.github.io/solana-py/).
 
 ## Quickstart
 
